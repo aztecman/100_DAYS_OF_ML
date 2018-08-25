@@ -5,7 +5,7 @@
 **1.** Studied Keras from a book: "Deep Learning with Python" by Francois Cholet. 
 **2.** Read an article titled 7 steps to learning Keras: https://www.kdnuggets.com/2017/10/seven-steps-deep-learning-keras.html
 **3.** Watched a video on Keras: https://www.youtube.com/watch?v=FrkYu2zVUyM 
-**4.** Watched a video on Keras: https://www.youtube.com/watch?v=BBIA6Wcu2j4
+**4.** Watched a more recent video on Keras: https://www.youtube.com/watch?v=BBIA6Wcu2j4
 
 
 **Thoughts:**
