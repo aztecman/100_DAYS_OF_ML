@@ -17,7 +17,7 @@ https://keras.io/models/about-keras-models/
 
 
 **Thoughts:**
-Today I learned about the implementation of 'temperature' in a RNN/LSTM. I was pleased to learn that keras functionality is low enough level to accomplish a variable temperature. My hope is to reproduce (in keras) the results of this blog:
+Today I learned about the implementation of 'temperature' in a RNN/LSTM. I was pleased to learn that keras functionality is low enough level to accomplish a dynamic temperature. My hope is to reproduce (in keras) the results of this blog:
 https://www.mtgsalvation.com/forums/magic-fundamentals/custom-card-creation/612057-generating-magic-cards-using-deep-recurrent-neural?page=32
 
 **Link to work:**
