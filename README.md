@@ -7,7 +7,7 @@
 **3.** Watched a video on Keras: https://www.youtube.com/watch?v=FrkYu2zVUyM 
 
 **Thoughts:**
-I am beginning to grasp the function class / Model class. See this documentation for more info: \n
+I am beginning to grasp the function class / Model class. See this documentation for more info: 
 https://keras.io/models/about-keras-models/
 
 ## Day 1: August 25, 2018
