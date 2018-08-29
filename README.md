@@ -47,10 +47,10 @@ One term stuck out to me that I failed to understand: Batch Normalization. I'm r
 At first when I tried to run some of Francois Cholet's code on Convolutional Neural Nets, I found it estimating each epoch at 5+ hours... so I shut down training and checked the GPU. Of course I'd forgotten to activate the environment in which I have GPU version of tensorflow properly installed (whoops). After activating, each epoch took about ten seconds.
 
 ##  Code Snippet for checking if CUDA (GPU) is being used:
-# import tensorflow as tf
-# print("TensorFlow successfully installed.")
-# if tf.test.is_built_with_cuda():
-#     print("The installed version of TensorFlow includes GPU support.")
-# else:
-#     print("The installed version of TensorFlow does not include GPU support.")
+### import tensorflow as tf
+### print("TensorFlow successfully installed.")
+### if tf.test.is_built_with_cuda():
+###     print("The installed version of TensorFlow includes GPU support.")
+### else:
+###     print("The installed version of TensorFlow does not include GPU support.")
 
