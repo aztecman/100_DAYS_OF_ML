@@ -37,3 +37,20 @@ One term stuck out to me that I failed to understand: Batch Normalization. I'm r
 **3.** Printed out and read over the original GAN paper by Ian Goodfellow, Yoshua Bengio, Sherjil Ozair, and others.
 **4.** Wrote out some basic vocabulary terms that every beginner should familiarize themselves with. In the next few weeks I will be helping to organize a meetup in San Francisco. I did this work as preperation for a handout I could share with students to make sure everyone is caught up as best as possible
 
+## Day 4: August 28, 2018
+**Today's Progress:**
+**1.** reread the original GAN paper
+**2.** Printed and read the paper 'Improved Techniques for training GANs' https://arxiv.org/pdf/1606.03498.pdf
+**3.** tried out the code for the first 5 chapters of "Deep Learning with Python" by Francois Cholet. 
+
+**Thoughts:**
+At first when I tried to run some of Francois Cholet's code on Convolutional Neural Nets, I found it estimating each epoch at 5+ hours... so I shut down training and checked the GPU. Of course I'd forgotten to activate the environment in which I have GPU version of tensorflow properly installed (whoops). After activating, each epoch took about ten seconds.
+
+##  Code Snippet for checking if CUDA (GPU) is being used:
+# import tensorflow as tf
+# print("TensorFlow successfully installed.")
+# if tf.test.is_built_with_cuda():
+#     print("The installed version of TensorFlow includes GPU support.")
+# else:
+#     print("The installed version of TensorFlow does not include GPU support.")
+
