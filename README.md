@@ -44,7 +44,7 @@ One term stuck out to me that I failed to understand: Batch Normalization. I'm r
 **3.** tried out the code for the first 5 chapters of "Deep Learning with Python" by Francois Cholet. 
 
 **Thoughts:**
-When I tried to run some of Francois Cholet's code on Convolutional Neural Nets, I found it estimating each epoch at 5+ hours... so I shut down training and checked the GPU. Of course I'd forgotten to activate the environment in which I have GPU version of tensorflow properly installed (whoops). After activating, each epoch took about ten seconds.
+When I tried to run some of Francois Cholet's code on CNNs today, I found it estimating each epoch at 5+ hours... so I shut down training and checked the GPU. Of course I'd forgotten to activate the environment in which I have GPU version of tensorflow properly installed (whoops). After activating, each epoch took about ten seconds.
 
 ###  Code Snippet for checking if CUDA (GPU) is being used:
 #### import tensorflow as tf
