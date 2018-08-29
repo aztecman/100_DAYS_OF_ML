@@ -41,7 +41,7 @@ One term stuck out to me that I failed to understand: Batch Normalization. I'm r
 **Today's Progress:**
 **1.** reread the original GAN paper
 **2.** Printed and read the paper 'Improved Techniques for training GANs' https://arxiv.org/pdf/1606.03498.pdf
-**3.** tried out the code for the first 5 chapters of "Deep Learning with Python" by Francois Cholet. 
+**3.** tried out the code for the first 5 chapters of "Deep Learning with Python" by Francois Cholet. https://github.com/fchollet/deep-learning-with-python-notebooks
 
 **Thoughts:**
 When I tried to run some of Francois Cholet's code on CNNs today, I found it estimating each epoch at 5+ hours... so I shut down training and checked the GPU. Of course I'd forgotten to activate the environment in which I have the GPU version of tensorflow  and cuDNN properly installed (whoops). After activating, each epoch took about ten seconds. I found this to be a far more satisfactory wait time.
