@@ -52,3 +52,12 @@ When I tried to run some of Francois Cholet's code on CNNs today, I found it est
 ####     print("The installed version of TensorFlow includes GPU support.")
 #### else:
 ####     print("The installed version of TensorFlow does not include GPU support.")
+
+## Day 5: August 29, 2018
+**Today's Progress:**
+**1.** printed and read a paper titled: 'Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks'
+**2.** reread the article titled 'fantastic GANs and where to find them', as well as the second section of this article: http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them
+**3.** Learned about IBM Watson helping to identify bad actors in trading: https://www.foxbusiness.com/features/ibm-tests-watson-technology-to-keep-eye-on-traders
+
+**Thoughts:**
+Two lofty objectives: **1.** Use artificial intelligence to augment human cognition **2.** Improve the cognition of institutions, with the goal of realizing enlightened society
