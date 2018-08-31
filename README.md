@@ -61,3 +61,17 @@ When I tried to run some of Francois Cholet's code on CNNs today, I found it est
 
 **Thoughts:**
 Two lofty objectives: **1.** Use artificial intelligence to augment human cognition **2.** Improve the cognition of institutions, with the goal of realizing enlightened society
+
+## Day 6: August 30, 2018
+**Today's Progress:**
+**1.** Today I broke my computer. That is, I broke the connection between Tensorflow and CUDA. I don't know how I did it, except that I expect it had something to do with updating tensorflow. I tried uninstalling tensorflow and I got an error. I deleted the folder and reinstalled and found myself with more errors. I created about 4 or 5 new environments with different versions of tensorflow and a bunch of new problems. The end state has me scratching my head. When I open idle from anaconda, tf.test.is_built_with_cuda() returns true... but when I open a jupyter notebook (from the same environment) this returns false.
+
+**Thoughts:**
+Considering giving up entirely. I have no one to call about this issue, and I'm not willing to reinstall everything from scratch (yet). Extremely depressed.
+
+## Day 7: August 31, 2018
+**Today's Progress:**
+**1.** Studying Math today.
+
+**Thoughts:**
+Next thing to try (GPU fix): reinstall anaconda from scratch
